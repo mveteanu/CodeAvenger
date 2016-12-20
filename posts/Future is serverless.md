@@ -11,16 +11,20 @@ What you get is better cost model and, as mentioned above, scalability. Serverle
 
 And since is a hot topic, all major cloud providers have offering around serverless.
 
-##Amazon AWS Lambda
+Amazon AWS Lambda
+-----------------
 [https://aws.amazon.com/lambda/](https://aws.amazon.com/lambda/ )
 
-##Microsoft Azure Functions
+Microsoft Azure Functions
+-------------------------
 [https://azure.microsoft.com/en-us/services/functions/](https://azure.microsoft.com/en-us/services/functions/)
 
-##Google Cloud Functions
+Google Cloud Functions
+----------------------
 [https://cloud.google.com/functions/](https://cloud.google.com/functions/ )
 
-##IBM OpenWhisk
+IBM OpenWhisk
+-------------
 [https://developer.ibm.com/openwhisk/](https://developer.ibm.com/openwhisk/ )
 
 And it doesn’t stop here. If you dig dipper into the serverless trend you’ll soon discover entire frameworks that try to help you even further with building event-driven serverless applications. 
