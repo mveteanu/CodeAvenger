@@ -5,8 +5,11 @@ Server is for web applications as is bread for peanut butter sandwich. You canno
 You can buy your own server or you can rent a physical or virtual server from a data center or cloud provider. There are plenty of offers. Once you have the server you can build your application.
 
 And still, one of the hottest trends in architecture is serverless architecture. Confusing? Right?
+
 Serverless doesn’t mean that you eliminate the server – you just use the servers of a cloud provider as a transient function provider. This is one step further than what PaaS promised. You don’t have to rent the servers and most importantly you don’t have to think how to scale the servers when the application demands so. When you need to perform a server function you just use a service that executes that function for you. It’s that simple!
+
 That’s why some experts consider serverless is a misnomer. They better prefer the term Function as a Service… although depending on architecture serverless may go a little bit beyond the FaaS term.
+
 What you get is better cost model and, as mentioned above, scalability. Serverless being a very good candidate for implementing some types of microservices.
 
 And since is a hot topic, all major cloud providers have offering around serverless.
