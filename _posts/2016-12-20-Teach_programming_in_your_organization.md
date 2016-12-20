@@ -1,9 +1,4 @@
-﻿---
-layout: post
-title: New Year’s Resolution: Teach programming in your organization
----
-
-New Year’s Resolution: Teach programming in your organization
+﻿New Year’s Resolution: Teach programming in your organization
 =============================================================
 
 As we are approaching New Year it is time to think of new resolutions that we’ll work on in 2017. I’m sure you already have by now a lot of ideas on your list.
