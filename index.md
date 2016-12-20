@@ -1,13 +1,13 @@
-- [Teach programming in your organization](posts/Teach programming in your organization.md)
+- [Teach programming in your organization](posts/Teach_programming_in_your_organization.md)
 
-- [How to embrace the open source revolution and be cool](posts/How to embrace the open source revolution and be cool.md)
+- [How to embrace the open source revolution and be cool](posts/How_to_embrace_the_open_source_revolution.md)
 
-- [Future is serverless](posts/Future is serverless.md)
+- [Future is serverless](posts/Future_is_serverless.md)
 
-- [HTML only websites are making a comeback](posts/HTML only websites are making a comeback.md)
+- [HTML only websites are making a comeback](posts/HTML_only_websites_are_making_a_comeback.md)
 
-- [Develop 2-tier web applications with Firebase](posts/Develop 2-tier web applications with Firebase.md)
+- [Develop 2-tier web applications with Firebase](posts/Develop_2-tier_web_applications_with_Firebase.md)
 
-- [Create Azure web applications using only a browser](posts/Create Azure web applications using only a browser.md)
+- [Create Azure web applications using only a browser](posts/Create_Azure_web_applications_using_only_a_browser.md)
 
-- [My Collections](posts/My Collections.md)
+- [My Collections](posts/My_Collections.md)
