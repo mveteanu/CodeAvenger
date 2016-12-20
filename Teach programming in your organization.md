@@ -17,7 +17,6 @@ Steve Job said “Everybody in this country should learn to program a computer, 
 
 Introduce the program gently to your people. Encourage them to grow themselves into this new area. Not all of them will become coders … but having coding knowledge will surely help them better with their personal goals and organization goals.
 
-Remember them that even president Obama took the challenge to code:
-https://www.whitehouse.gov/blog/2014/12/10/president-obama-first-president-write-line-code
+Remember them that even president Obama took the challenge to [code](https://www.whitehouse.gov/blog/2014/12/10/president-obama-first-president-write-line-code).
 
 Start now! … and if you managed to create new programmers in your organization drop me a line! I’m always happy to hear success stories!
