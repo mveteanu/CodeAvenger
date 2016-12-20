@@ -18,6 +18,7 @@ As you can see from the following 2 screen captures, the biggest differentiator 
 ![App Service Editor](monaco - App Service Editor.png)
 Image 1: App Service Editor
 
+
 ![Visual Studio Code](monaco - Visual Studio Code.png)
 Image 2: Visual Studio Code
 
