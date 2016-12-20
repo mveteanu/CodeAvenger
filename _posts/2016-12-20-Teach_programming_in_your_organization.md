@@ -1,3 +1,8 @@
+﻿---
+layout: post
+title: New Year’s Resolution: Teach programming in your organization
+---
+
 New Year’s Resolution: Teach programming in your organization
 =============================================================
 
