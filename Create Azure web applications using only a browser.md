@@ -15,8 +15,10 @@ To see how similar the “App Service Editor” is with “Visual Studio Code”
 
 As you can see from the following 2 screen captures, the biggest differentiator is only the browser Url bar! The code editing experience is the same!
  
+![App Service Editor](monaco - App Service Editor.png)
 Image 1: App Service Editor
- 
+
+![Visual Studio Code](monaco - Visual Studio Code.png)
 Image 2: Visual Studio Code
 
 Did I mention that “App Service Editor” can be used also to edit and maintain “Azure functions”? -- Those little building blocks that paves the way to serverless applications.
