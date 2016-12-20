@@ -27,9 +27,13 @@ There are entire categories of web sites with the only purpose of presenting som
 For this kind of website is not worth the effort of maintaining an entire engine on the server with the only purpose of sending a “text” to the user. These sites can be created in HTML.
 But… if we give up to server-side technologies, how do we solve the repetition problem that we had also 20 years ago?
 Solution is to use a “static website generator”. There are tons of them!
+
 They work by making use of templating and markdown technologies to heavy lift the task of repetition from the developer therefore eliminating human errors. Static site generators make complex sites such as blog easy to develop and maintain, developers focusing just on the template, leaving the tool the task of compilation and production of standard HTML files.
+
 Perhaps the most common static site generator is Jekyll (http://jekyllrb.com/). I discovered Jekyll when I first opened my GitHub account. Jekyll is backed by GitHub. And since GitHub allows you to host static websites, a lot of people are using Jekyll to generate these sites.
+
 But Jekyll is not the only one. Another popular option is Hugo (https://gohugo.io/)  - a very fast and standalone website generator written in Go.
+
 Middleman (https://middlemanapp.com/) and Roots (http://roots.cx/) are other 2 popular options.
 
 Static sites are huge again. Big corporations are using them to get the benefits. Healthcare.gov switched from a CMS system to a static site implemented with Jekyll.
