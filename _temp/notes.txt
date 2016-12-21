@@ -1,0 +1,5 @@
+This site is based on theme from:
+https://github.com/pietromenna/jekyll-cayman-theme
+
+Share buttons generated with:
+https://simplesharingbuttons.com
