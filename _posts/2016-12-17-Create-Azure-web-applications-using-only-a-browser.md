@@ -1,4 +1,4 @@
-Create Azure web applications using only a browser
+﻿Create Azure web applications using only a browser
 ==================================================
 
 As a supporter of [STARLIMS Technology Platform](https://www.linkedin.com/in/mveteanu/), you probably understand my enthusiasm of developing and maintaining web applications using only a web browser!
@@ -15,11 +15,11 @@ To see how similar the “App Service Editor” is with “Visual Studio Code”
 
 As you can see from the following 2 screen captures, the biggest differentiator is only the browser Url bar! The code editing experience is the same!
  
-![App Service Editor](img/monaco - App Service Editor.png)
+![App Service Editor](/img/posts/monaco - App Service Editor.png)
 Image 1: App Service Editor
 
 
-![Visual Studio Code](img/monaco - Visual Studio Code.png)
+![Visual Studio Code](/img/posts/monaco - Visual Studio Code.png)
 Image 2: Visual Studio Code
 
 Did I mention that “App Service Editor” can be used also to edit and maintain “Azure functions”? -- Those little building blocks that paves the way to serverless applications.
