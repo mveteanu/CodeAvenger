@@ -1,4 +1,17 @@
-title: Code Avenger
-tagline: Random thoughts about code and technology
+# Setup
+title:        Code Avenger
+tagline:      Random thoughts about code and technology
+baseurl:      ""
+paginate:     1
 
-theme: jekyll-theme-cayman
+# About/contact
+author:
+  name:       Marian Veteanu
+  url:        http://linkedin.com/in/mveteanu 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
