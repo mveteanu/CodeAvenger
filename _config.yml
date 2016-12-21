@@ -9,6 +9,10 @@ author:
   name:       Marian Veteanu
   url:        http://linkedin.com/in/mveteanu 
 
+
+github_username:      mveteanu
+linkedin_username:    mveteanu
+
 # Gems
 gems:
   - jekyll-paginate
