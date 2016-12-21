@@ -15,7 +15,7 @@ a {
   a:hover {
     text-decoration: underline; }
 
-.project-name-anchor
+a.project-name-anchor
 {
   color: #fff;
   text-decoration: none;
