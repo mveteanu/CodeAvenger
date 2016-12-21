@@ -17,5 +17,7 @@ linkedin_username:    mveteanu
 gems:
   - jekyll-paginate
 
+highlighter:rouge
+
 #Others
 markdown: kramdown
