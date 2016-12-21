@@ -15,6 +15,12 @@ a {
   a:hover {
     text-decoration: underline; }
 
+a.project-name
+{
+  color: #fff;
+  text-decoration: none;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
