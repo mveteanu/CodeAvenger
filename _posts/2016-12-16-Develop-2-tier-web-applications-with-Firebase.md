@@ -24,14 +24,14 @@ To get started with Firebase for web applications takes only a few lines of Java
 -	First you need to initialize the connection to Firebase, providing the API Key assigned by Google
 -	Next you’re good to go to read data. As mentioned before, reading of the data can be done by just subscribing to Firebase via a callback:
 
-{% highlight JavaScript %}
+```JavaScript
 var starCountRef = firebase.database().ref('posts/' + postId + '/starCount');
 starCountRef.on('value', OnCountChanged);
 // This function gets triggered automatically when data available
 function OnCountChanged(eventArgs)
 {
 }
-{% endhighlight %}
+```
 
 Since not all readers of this article may be code savvy, I will not provide any other examples… but if you are interested you can go to https://firebase.google.com/docs/database/web/start to see a quick introduction.
 
