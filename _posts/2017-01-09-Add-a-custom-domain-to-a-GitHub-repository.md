@@ -86,11 +86,11 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
    At this point, the GoDaddy DNS records should contain the following:
 
-NAME     TYPE      VALUE
----------------------------------
-@        A         192.30.252.153
-@        A         192.30.252.154
-www      CNAME     @
+|NAME  |   TYPE  |     VALUE          |
+|------|---------|--------------------|
+|@     |   A     |     192.30.252.153 |
+|@     |   A     |     192.30.252.154 |
+|www   |   CNAME |     @              |
 
 
 Note: Other entries may be already pre-populated. Don't worry about those.
