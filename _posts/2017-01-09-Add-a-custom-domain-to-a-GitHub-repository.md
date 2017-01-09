@@ -10,8 +10,8 @@ Purchase a domain from GoDaddy
 2. Search and purchase a domain. In our case we'll purchase vmasoft.net
 
 
-Creating the GitHub pages site
-------------------------------
+Create the GitHub pages site
+----------------------------
 
 1. Open an account with http://www.github.com. If you already have a github account, you can use that one.
 
@@ -45,8 +45,8 @@ Creating the GitHub pages site
    In our example, this will be: https://mveteanu.github.io/vmasoft/
 
 
-Configuring the custom domain in GitHub
----------------------------------------
+Configure the custom domain in GitHub
+-------------------------------------
 
 1. In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain.
    GitHub recommends using a www subdomain as your custom domain.
@@ -64,8 +64,8 @@ Configuring the custom domain in GitHub
    Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring     your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/
 
 
-Setting up ALIAS, ANAME, A and CNAME records in GoDaddy
--------------------------------------------------------
+Set-up A and CNAME records in GoDaddy
+-------------------------------------
 
 Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
