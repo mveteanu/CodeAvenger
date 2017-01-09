@@ -5,7 +5,7 @@ Purchase a domain from GoDaddy
 ------------------------------
 
 1. Open an account with http://www.godaddy.com
-   Via GoDaddy you can purchase .com, .net, .etc domains.
+Via GoDaddy you can purchase .com, .net, .etc domains.
 
 2. Search and purchase a domain. In our case we'll purchase vmasoft.net
 
@@ -16,16 +16,16 @@ Create the GitHub pages site
 1. Open an account with http://www.github.com. If you already have a github account, you can use that one.
 
 2. On you GitHub account, create a new repository:
-   E.g. vmasoft
+E.g. vmasoft
 
    ![](/img/posts/godaddy_github_01.png)
 
-3. Create your site in a local folder. 
-   At minimum, create only 1 page named index.html
+3. Create your site in a local folder.
+At minimum, create only 1 page named index.html
 
-4. Push the local files into the GitHub repository. 
-   There are multiple ways to push files into the GitHub repository. 
-   If you prefer the command line you can do via git, like in this example:
+4. Push the local files into the GitHub repository.
+There are multiple ways to push files into the GitHub repository.
+If you prefer the command line you can do via git, like in this example:
    
    ```
    git init
@@ -36,34 +36,34 @@ Create the GitHub pages site
    ```
 
 5. Go to GitHub repository settings, and locate the In the "GitHub Pages" section.
-   Select "master branch" from the Source combobox to allow your repository behave like a website.
-   Hit Save.
+Select "master branch" from the Source combobox to allow your repository behave like a website.
+Hit Save.
 
    ![](/img/posts/godaddy_github_02.png)
 
    ![](/img/posts/godaddy_github_03.png)
 
 6. Test your website by navigating to the displayed Url.
-   In our example, this will be: https://mveteanu.github.io/vmasoft/
+In our example, this will be: https://mveteanu.github.io/vmasoft/
 
 
 Configure the custom domain in GitHub
 -------------------------------------
 
 1. In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain.
-   GitHub recommends using a www subdomain as your custom domain.
+GitHub recommends using a www subdomain as your custom domain.
 
-   In our case this will be:
+In our case this will be:
 
-   www.vmasoft.net
+www.vmasoft.net
 
-   Of course, you can use other subdomains, or no subdomains at all.
-   You can find more information about supported custom domains at 
-   https://help.github.com/articles/about-supported-custom-domains/
+Of course, you can use other subdomains, or no subdomains at all.
+You can find more information about supported custom domains at 
+https://help.github.com/articles/about-supported-custom-domains/
 
-   GitHub has this warning:
+GitHub has this warning:
 
-   Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring     your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/
+Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring     your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/
 
 
 Set-up A and CNAME records in GoDaddy
@@ -75,16 +75,16 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
 1. To set up the apex domain, such as vmasoft.net, we need to configure two A records with GoDaddy.
 
-   The A records will point to the following two IP addresses as required by GitHub and explained here
-   https://help.github.com/articles/setting-up-an-apex-domain/
+The A records will point to the following two IP addresses as required by GitHub and explained here
+https://help.github.com/articles/setting-up-an-apex-domain/
 
-   192.30.252.153
-   192.30.252.154
+192.30.252.153
+192.30.252.154
 
 2. To set up the www subdomain, such as www.vmasoft.net we need to configure a CNAME record with GoDaddy.
-   The CNAME record will never point to an IP address but instead to another DNS record.
+The CNAME record will never point to an IP address but instead to another DNS record.
 
-   At this point, the GoDaddy DNS records should contain the following:
+At this point, the GoDaddy DNS records should contain the following:
 
 |NAME  |   TYPE  |     VALUE          |
 |------|---------|--------------------|
@@ -95,7 +95,7 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
 Note: Other entries may be already pre-populated. Don't worry about those.
 
-  ![](/img/posts/godaddy_github_05.png)
+![](/img/posts/godaddy_github_05.png)
 
 
 Test your new domain
@@ -103,6 +103,5 @@ Test your new domain
 
 1. Wait a few minutes (or hours) for the changes to propagate.
 
-2. Test your new website / domain. In our case this will be:
-   http://www.vmasoft.net
-
+2. Test your new website / domain. In our case this will be: 
+http://www.vmasoft.net
