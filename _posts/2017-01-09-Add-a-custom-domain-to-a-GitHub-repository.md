@@ -27,11 +27,13 @@ Create the GitHub pages site
    There are multiple ways to push files into the GitHub repository. 
    If you prefer the command line you can do via git, like in this example:
    
+   ```
    git init
    git add .
    git commit -m "first version"
    git remote add origin https://github.com/mveteanu/vmasoft.git
    git push -u origin master
+   ```
 
 5. Go to GitHub repository settings, and locate the In the "GitHub Pages" section.
    Select "master branch" from the Source combobox to allow your repository behave like a website.
