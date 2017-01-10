@@ -50,19 +50,19 @@ In our example, this will be: https://mveteanu.github.io/vmasoft/
 Configure the custom domain in GitHub
 -------------------------------------
 
-In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain. GitHub recommends using a www subdomain as your custom domain.
+1. In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain. GitHub recommends using a www subdomain as your custom domain.
 
-In our case this will be:
+   In our case this will be:
 
-www.vmasoft.net
+   www.vmasoft.net
 
-Of course, you can use other subdomains, or no subdomains at all.
-You can find more information about supported custom domains at 
-https://help.github.com/articles/about-supported-custom-domains/
+   Of course, you can use other subdomains, or no subdomains at all.
+   You can find more information about supported custom domains at 
+   https://help.github.com/articles/about-supported-custom-domains/
 
-GitHub has this warning:
+   GitHub has this warning:
 
-"Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/"
+   "Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/"
 
 
 Set-up A and CNAME records in GoDaddy
@@ -83,16 +83,16 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 2. To set up the www subdomain, such as www.vmasoft.net we need to configure a CNAME record with GoDaddy.
 The CNAME record will never point to an IP address but instead to another DNS record.
 
-At this point, the GoDaddy DNS records should contain the following:
+   At this point, the GoDaddy DNS records should contain the following:
 
-|NAME  |   TYPE  |     VALUE          |
-|------|---------|--------------------|
-|@     |   A     |     192.30.252.153 |
-|@     |   A     |     192.30.252.154 |
-|www   |   CNAME |     @              |
+   |NAME  |   TYPE  |     VALUE          |
+   |------|---------|--------------------|
+   |@     |   A     |     192.30.252.153 |
+   |@     |   A     |     192.30.252.154 |
+   |www   |   CNAME |     @              |
 
 
-Note: Other entries may be already pre-populated. Don't worry about those.
+   Note: Other entries may be already pre-populated. Don't worry about those.
 
 ![](/img/posts/godaddy_github_05.png)
 
