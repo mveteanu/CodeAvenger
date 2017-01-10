@@ -20,8 +20,7 @@ Create the GitHub pages site
 
    ![](/img/posts/godaddy_github_01.png)
 
-3. Create your site in a local folder. 
-
+3. Create your site in a local folder.
 At minimum, create only 1 page named index.html
 
 4. Push the local files into the GitHub repository.
