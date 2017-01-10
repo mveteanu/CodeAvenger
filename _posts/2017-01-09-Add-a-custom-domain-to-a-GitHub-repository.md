@@ -6,7 +6,7 @@ This article shows how to add a custom domain purchased via GoDaddy to the GitHu
 Purchase a domain from GoDaddy
 ------------------------------
 
-1. Open an account with http://www.godaddy.com and purchase a .com, .net, .etc domain.
+1. Open an account with [GoDaddy](http://www.godaddy.com) and purchase a .com, .net, .etc domain.
 
 2. In our case we'll purchase vmasoft.net
 
@@ -14,7 +14,7 @@ Purchase a domain from GoDaddy
 Create the GitHub pages site
 ----------------------------
 
-1. Open an account with http://www.github.com. If you already have a github account, you can use that one.
+1. Open an account with [GitHub](http://www.github.com). If you already have a github account, you can use that one.
 
 2. On you GitHub account, create a new repository: E.g. vmasoft
 
@@ -44,7 +44,7 @@ Hit Save.
    ![](/img/posts/godaddy_github_03.png)
 
 6. Test your website by navigating to the displayed Url.
-In our example, this will be: https://mveteanu.github.io/vmasoft/
+In our example, this will be: [https://mveteanu.github.io/vmasoft/](https://mveteanu.github.io/vmasoft/)
 
 
 Configure the custom domain in GitHub
@@ -54,15 +54,14 @@ Configure the custom domain in GitHub
 
    In our case this will be:
 
-   www.vmasoft.net
+   [www.vmasoft.net](http://www.vmasoft.net)
 
    Of course, you can use other subdomains, or no subdomains at all.
-   You can find more information about supported custom domains at 
-   https://help.github.com/articles/about-supported-custom-domains/
+   You can find more information about supported custom domains [here](https://help.github.com/articles/about-supported-custom-domains/) on GitHub.
+   
+   GitHub has this [warning](https://help.github.com/articles/setting-up-a-www-subdomain/):
 
-   GitHub has this warning:
-
-   "Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/"
+   "Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring your domain name with your DNS provider."
 
 
 Set-up A and CNAME records in GoDaddy
@@ -74,14 +73,13 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
 1. To set up the apex domain, such as vmasoft.net, we need to configure two A records with GoDaddy.
 
-   The A records will point to the following two IP addresses as required by GitHub and explained here
-   https://help.github.com/articles/setting-up-an-apex-domain/
+   The A records will point to the following two IP addresses as required by GitHub and explained [here](https://help.github.com/articles/setting-up-an-apex-domain/)
 
    - 192.30.252.153
    - 192.30.252.154
 
 
-2. To set up the www subdomain, such as www.vmasoft.net we need to configure a CNAME record with GoDaddy.
+2. To set up the www subdomain, such as [www.vmasoft.net](http://www.vmasoft.net) we need to configure a CNAME record with GoDaddy.
 The CNAME record will never point to an IP address but instead to another DNS record.
 
    At this point, the GoDaddy DNS records should contain the following:
@@ -103,4 +101,4 @@ Test your new domain
 
 1. Wait a few minutes (or hours) for the changes to propagate.
 
-2. Test your new website / domain. E.g. http://www.vmasoft.net
+2. Test your new website / domain. E.g. [http://www.vmasoft.net](http://www.vmasoft.net)
