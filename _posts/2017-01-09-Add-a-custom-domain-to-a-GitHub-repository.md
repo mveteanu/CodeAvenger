@@ -77,8 +77,8 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
    The A records will point to the following two IP addresses as required by GitHub and explained here
    https://help.github.com/articles/setting-up-an-apex-domain/
 
-   192.30.252.153
-   192.30.252.154
+   - 192.30.252.153
+   - 192.30.252.154
 
 2. To set up the www subdomain, such as www.vmasoft.net we need to configure a CNAME record with GoDaddy.
 The CNAME record will never point to an IP address but instead to another DNS record.
