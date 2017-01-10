@@ -51,8 +51,7 @@ In our example, this will be: https://mveteanu.github.io/vmasoft/
 Configure the custom domain in GitHub
 -------------------------------------
 
-1. In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain.
-GitHub recommends using a www subdomain as your custom domain.
+In the same "GitHub Pages" section, populate the "Custom domain" textbox with your domain. GitHub recommends using a www subdomain as your custom domain.
 
 In our case this will be:
 
@@ -64,7 +63,7 @@ https://help.github.com/articles/about-supported-custom-domains/
 
 GitHub has this warning:
 
-Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring     your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/
+"Warning: We highly recommend adding your custom domain to your GitHub Pages site's repository before configuring your domain name with your DNS provider. - https://help.github.com/articles/setting-up-a-www-subdomain/"
 
 
 Set-up A and CNAME records in GoDaddy
