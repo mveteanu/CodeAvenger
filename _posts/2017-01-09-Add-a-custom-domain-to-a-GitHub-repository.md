@@ -80,6 +80,7 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
    - 192.30.252.153
    - 192.30.252.154
 
+
 2. To set up the www subdomain, such as www.vmasoft.net we need to configure a CNAME record with GoDaddy.
 The CNAME record will never point to an IP address but instead to another DNS record.
 
@@ -102,5 +103,4 @@ Test your new domain
 
 1. Wait a few minutes (or hours) for the changes to propagate.
 
-2. Test your new website / domain. In our case this will be: 
-http://www.vmasoft.net
+2. Test your new website / domain. E.g. http://www.vmasoft.net
