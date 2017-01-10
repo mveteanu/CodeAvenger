@@ -1,13 +1,14 @@
-This article shows how to add a custom domain purchased via GoDaddy to a GitHub repository.
+Did you know that you can host your website on GitHub? You can do this as simple as creating a GitHub repository.
+
+This article shows how to add a custom domain purchased via GoDaddy to the GitHub repository that contains the website.
 
 
 Purchase a domain from GoDaddy
 ------------------------------
 
-1. Open an account with http://www.godaddy.com
-Via GoDaddy you can purchase .com, .net, .etc domains.
+1. Open an account with http://www.godaddy.com and purchase a .com, .net, .etc domain.
 
-2. Search and purchase a domain. In our case we'll purchase vmasoft.net
+2. In our case we'll purchase vmasoft.net
 
 
 Create the GitHub pages site
@@ -15,12 +16,12 @@ Create the GitHub pages site
 
 1. Open an account with http://www.github.com. If you already have a github account, you can use that one.
 
-2. On you GitHub account, create a new repository:
-E.g. vmasoft
+2. On you GitHub account, create a new repository: E.g. vmasoft
 
    ![](/img/posts/godaddy_github_01.png)
 
-3. Create your site in a local folder.
+3. Create your site in a local folder. 
+
 At minimum, create only 1 page named index.html
 
 4. Push the local files into the GitHub repository.
