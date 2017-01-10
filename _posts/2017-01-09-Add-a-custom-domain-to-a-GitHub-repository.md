@@ -37,7 +37,7 @@ If you prefer the command line you can do via git, like in this example:
 
 5. Go to GitHub repository settings, and locate the In the "GitHub Pages" section.
 Select "master branch" from the Source combobox to allow your repository behave like a website.
-Hit Save.
+Hit "Save".
 
    ![](/img/posts/godaddy_github_02.png)
 
