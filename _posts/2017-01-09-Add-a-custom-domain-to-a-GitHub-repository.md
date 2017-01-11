@@ -1,4 +1,4 @@
-Did you know that you can host your website on GitHub? This blog is currently hosted for free on GitHub. You can do this as simple as creating a GitHub repository.
+Did you know that you can host your website on GitHub? This blog is currently [hosted for free on GitHub](http://github.com/mveteanu/CodeAvenger). You can do this as simple as creating a GitHub repository.
 
 This article shows how to add a custom domain purchased via GoDaddy to the GitHub repository that contains the website.
 
