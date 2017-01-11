@@ -1,9 +1,9 @@
 Manually code your technical documentation
 ==========================================
 
-Manually code technical documentation means editing and maintain manuals, guides and articles using a markup description language such as: HTML, MD, TEX, etc. Is this an old school approach or is it still used today? What’s your opinion?
+Manually code technical documentation means editing and maintain manuals, guides and articles using a markup description language such as: HTML, MD, TEX, etc. Is this an old school approach or is it still used today? Whatâ€™s your opinion?
 
-Each and every software product needs to have good documentation. Let’s say that your product is an API library intended for developers. When you publish the library you have to provide also the following documentation:
+Each and every software product needs to have good documentation. Letâ€™s say that your product is an API library intended for developers. When you publish the library you have to provide also the following documentation:
 
 - Reference documentation: API listing
 - Static documentation: guides, tutorials, articles, etc.
@@ -11,7 +11,7 @@ Each and every software product needs to have good documentation. Let’s say that
 Reference documentation
 -----------------------
 
-Reference documentation should be generated automatically from code as part of the regular build cycle. We’ll cover more about this in a future article.
+Reference documentation should be generated automatically from code as part of the regular build cycle. Weâ€™ll cover more about this in a future article.
 
 
 Static documentation
@@ -32,4 +32,4 @@ Processed .MD files are then presented for end-users on [https://docs.microsoft.
 
 Microsoft is only one example. A lot of other companies and projects understand the flexibility of maintaining the documentation is a text based format. Are you one of these companies?
 
-P.S. This article is created as an MD file and hosted using GitHub pages at this [location](http://github.com/mveteanu/CodeAvenger/_posts/2017-01-11-Manually-code-your-technical-documentation.md). In fact, the whole [CodeAvenger](http://www.codeavenger.com) blog is maintained as a series of MD files on GitHub.
+P.S. This article is created as an MD file and hosted using GitHub pages at this [location](http://github.com/mveteanu/CodeAvenger/blob/master/_posts/2017-01-11-Manually-code-your-technical-documentation.md). In fact, the whole [CodeAvenger](http://www.codeavenger.com) blog is maintained as a series of MD files on GitHub.
