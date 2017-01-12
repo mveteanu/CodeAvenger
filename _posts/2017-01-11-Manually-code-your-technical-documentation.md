@@ -25,10 +25,12 @@ Static documentation creation has usually a different lifecycle than the regular
 
 With this abundance of visual tools for maintaining technical documentation, how many of you are still manually coding the documentation?
 
-If you believe that hand coding technical documentation is a thing of past ... then think again and look no further than Microsoft. The technical documentation of Azure cloud is hosted on GitHub as Markdown .MD files in this repository: [https://github.com/Microsoft/azure-docs](https://github.com/Microsoft/azure-docs)
+> If you believe that hand coding technical documentation is a thing of past ... then think again and look no further than Microsoft. 
+> The technical documentation of Azure cloud is hosted on GitHub as Markdown .MD files in this repository: 
+> [https://github.com/Microsoft/azure-docs](https://github.com/Microsoft/azure-docs)
 
-The Azure documentation is fully open source on GitHub. Anybody can contribute to it.
-Processed .MD files are then presented for end-users on [https://docs.microsoft.com/azure](https://docs.microsoft.com/azure) website.
+> The Azure documentation is fully open source on GitHub. Anybody can contribute to it.
+> Processed .MD files are then presented for end-users on [https://docs.microsoft.com/azure](https://docs.microsoft.com/azure) website.
 
 Microsoft is only one example. A lot of other companies and projects understand the flexibility of maintaining the documentation is a text based format. Are you one of these companies?
 
