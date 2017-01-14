@@ -6,6 +6,7 @@ Did you know that you can render HTML on the server-side in a headless environme
 PhantomJS is nothing else but a headless WebKit based browser. PhantomJS can render a webpage page in the same way as Safari (also WebKit based) does but in an environment without user interface.
 
 The use cases for PhantomJS are in the area of:
+
 - Taking screenshots of websites from the server-side (e.g. some web services are using this to test a site in various resolutions and produce screenshots of the results);
 - Implement automated using testing for web based systems (via different frameworks based on PhantomJS);
 - Render HTML pages as .PNG / .JPG or .PDF
