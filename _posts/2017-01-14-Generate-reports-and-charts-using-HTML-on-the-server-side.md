@@ -20,9 +20,9 @@ Some people use PhantomJS to generate / render also charts or complex visualizat
 
 Without further ado, let me show you how easy is to render a web page as .PNG file using PhantomJS.
 
-1. Download and unzip the PhantomJS executable. Everything is self contained in a single executable without external dependencies: phantomjs.exe
+### 1. Download and unzip the PhantomJS executable. Everything is self contained in a single executable without external dependencies: phantomjs.exe
 
-2. Create a script file name renderpng.js and paste the following script:
+### 2. Create a script file name renderpng.js and paste the following script:
 
 ```JavaScript
 	var page = require('webpage').create();
@@ -32,7 +32,7 @@ Without further ado, let me show you how easy is to render a web page as .PNG fi
 	});
 ```
 
-3. From you command prompt, type:
+### 3. From you command prompt, type:
 
 ```
 	phantomjs renderpng.js
