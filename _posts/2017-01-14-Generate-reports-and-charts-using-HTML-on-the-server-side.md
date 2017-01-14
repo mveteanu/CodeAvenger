@@ -26,8 +26,8 @@ Without further ado, let me show you how easy is to render a web page as .PNG fi
 	```JavaScript
 	var page = require('webpage').create();
 	page.open("http://www.codeavenger.com/", function() {
-	  page.render("codeavenger.com.png");
-	  phantom.exit();
+		page.render("codeavenger.com.png");
+		phantom.exit();
 	});
 	```
 
