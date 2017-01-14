@@ -24,19 +24,19 @@ Without further ado, let me show you how easy is to render a web page as .PNG fi
 
 2. Create a script file name renderpng.js and paste the following script:
 
-	```JavaScript
+```JavaScript
 	var page = require('webpage').create();
 	page.open("http://www.codeavenger.com/", function() {
 		page.render("codeavenger.com.png");
 		phantom.exit();
 	});
-	```
+```
 
 3. From you command prompt, type:
 
-	```
+```
 	phantomjs renderpng.js
-	```
+```
 
 That’s it! In your script folder you should notice the newly created .png file!
 
