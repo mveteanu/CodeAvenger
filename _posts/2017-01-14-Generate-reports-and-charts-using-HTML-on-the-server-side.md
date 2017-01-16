@@ -8,7 +8,7 @@ PhantomJS is nothing else but a headless WebKit based browser. PhantomJS can ren
 The use cases for PhantomJS are in the area of:
 
 - Taking screenshots of websites from the server-side (e.g. some web services are using this to test a site in various resolutions and produce screenshots of the results);
-- Implement automated using testing for web based systems (via different frameworks based on PhantomJS);
+- Implement automated UI testing for web based systems (via different frameworks based on PhantomJS);
 - Render HTML pages as .PNG / .JPG or .PDF
 
 This last enumerated use case is what makes possible generating reports and charts using HTML on the server-side.
@@ -27,7 +27,7 @@ Download and unzip the PhantomJS executable. Everything is self contained in a s
 
 
 ### Step 2.
-Create a script file name renderpng.js and paste the following script:
+Create a script file named renderpng.js and paste the following script:
 
 ```JavaScript
 	var page = require('webpage').create();
