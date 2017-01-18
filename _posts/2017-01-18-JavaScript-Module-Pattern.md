@@ -4,7 +4,6 @@ JavaScript Module Pattern
 One of the challenges JavaScript beginners are trying to solve is finding a way to encapsulate all the attributes and behaviors related to a certain entity. Encapsulating all the data in a single entity, and then exposing only the public data, is one of the most basic concepts in implementing efficient libraries of APIs.
 
 The module pattern, implemented by using JavaScript closures, comes handy when you want to encapsulate data as well as control what data is private and what public.
-Without further ado, let’s see an example:
 
 Without further ado, let’s see an example:
 
