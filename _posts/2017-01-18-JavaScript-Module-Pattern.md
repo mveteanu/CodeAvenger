@@ -40,6 +40,8 @@ function CreateShapeObject()
 The public API, exported from the function is available to consumers like this:
 
 ```JavaScript
+var shape = CreateShapeObject();
+...
 shape.draw( width / 2, height / 2);    
 ...
 shape.inc(10);
@@ -50,4 +52,3 @@ shape.dec(10);
 You can find the whole example, together with other ways of achieving encapsulation in JavaScript in the following GitHub Gist:
 
 [Encapsulation in JavaScript](https://gist.github.com/mveteanu/d40f344802f18be67caccdf22ee98b82)
-
