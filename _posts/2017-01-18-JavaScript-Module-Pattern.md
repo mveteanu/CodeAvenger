@@ -49,6 +49,5 @@ shape.inc(10);
 shape.dec(10);
 ```
 
-You can find the whole example, together with other ways of achieving encapsulation in JavaScript in the following GitHub Gist:
-
+You can find the whole example, together with other ways of achieving encapsulation in JavaScript in the following GitHub Gist: 
 [Encapsulation in JavaScript](https://gist.github.com/mveteanu/d40f344802f18be67caccdf22ee98b82)
