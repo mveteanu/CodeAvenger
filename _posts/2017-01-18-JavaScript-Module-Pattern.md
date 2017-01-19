@@ -7,7 +7,7 @@ The module pattern, implemented by using JavaScript closures, comes handy when y
 
 Without further ado, let’s see an example:
 
-```JavaScript
+{% highlight JavaScript %}
 // Use closure to protect private data
 function CreateShapeObject()
 {
@@ -35,7 +35,7 @@ function CreateShapeObject()
         draw : drawShape,
     }
 }
-```
+{% endhighlight %}
 
 The public API, exported from the function is available to consumers like this:
 
