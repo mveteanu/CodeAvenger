@@ -16,7 +16,7 @@ Create the GitHub pages site
 
 1. Open an account with [GitHub](http://www.github.com). If you already have a github account, you can use that one.
 
-2. On you GitHub account, create a new repository: E.g. vmasoft
+2. On you GitHub account, create a new project repository: E.g. vmasoft
 
    ![](/img/posts/godaddy_github_01.png)
 
@@ -80,15 +80,15 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
 
 2. To set up the www subdomain, such as [www.vmasoft.net](http://www.vmasoft.net) we need to configure a CNAME record with GoDaddy.
-The CNAME record will never point to an IP address but instead to another DNS record.
+In order to take advange of GitHub CDN, we will have to point the www subdomain to GitHub account address.
 
    At this point, the GoDaddy DNS records should contain the following:
 
-   |NAME  |   TYPE  |     VALUE          |
-   |------|---------|--------------------|
-   |@     |   A     |     192.30.252.153 |
-   |@     |   A     |     192.30.252.154 |
-   |www   |   CNAME |     @              |
+   |NAME  |   TYPE  |  VALUE              |
+   |------|---------|---------------------|
+   |@     |   A     |  192.30.252.153     |
+   |@     |   A     |  192.30.252.154     |
+   |www   |   CNAME |  mveteanu.github.io |
 
 
    Note: Other entries may be already pre-populated. Don't worry about those.
@@ -102,3 +102,12 @@ Test your new domain
 1. Wait a few minutes (or hours) for the changes to propagate.
 
 2. Test your new website / domain. E.g. [http://www.vmasoft.net](http://www.vmasoft.net)
+
+3. If you have access to a Linux machine you can use the dig command to check the DNS settings:
+
+```sh
+dig www.vmasoft.net
+```
+
+![](/img/posts/godaddy_github_06.png)
+
