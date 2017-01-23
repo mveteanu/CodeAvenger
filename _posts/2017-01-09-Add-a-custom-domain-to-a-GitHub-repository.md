@@ -103,7 +103,7 @@ Test your new domain
 
 2. Test your new website / domain. E.g. [http://www.vmasoft.net](http://www.vmasoft.net)
 
-3. If you have access to a Linux machine you can use the dig command to check the DNS settings:
+3. If you have access to a Linux machine you can use the dig command to check the DNS settings. It should look like this:
 
 ```sh
 dig www.vmasoft.net
