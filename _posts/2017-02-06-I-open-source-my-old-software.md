@@ -10,6 +10,6 @@ This was 15 – 20+ years ago.
 
 Recently, I decided to un-dust some of my old software in a new format: open-source projects on GitHub: [http://github.com/mveteanu](http://github.com/mveteanu)
 
-![](img/os_vmasoft.png)
+![](/img/os_vmasoft.png)
 
 
