@@ -9,8 +9,8 @@ Years ago mainstream compilers used to target machine op-codes then they start t
 
 I want to bring to your attention the Emscripten project [http://kripken.github.io/emscripten-site/](http://kripken.github.io/emscripten-site/). This is an extract from their website:
 
->> Emscripten is an LLVM-based project that compiles C and C++ into highly-optimizable JavaScript in asm.js format. 
->> This lets you run C and C++ on the web at near-native speed, without plugins.
+> Emscripten is an LLVM-based project that compiles C and C++ into highly-optimizable JavaScript in asm.js format. 
+> This lets you run C and C++ on the web at near-native speed, without plugins.
 
 The Emscripten is a highly regarded compiler by people from all sort of industries. Most notable game industry can benefit of Emscripten to port their games to the web. In other words a classic C++ game can now run in a web page without any plugin. Just check this page for a huge list of games that you can now play in the browser: [https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos](https://github.com/kripken/emscripten/wiki/Porting-Examples-and-Demos)
 
