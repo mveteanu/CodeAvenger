@@ -69,8 +69,8 @@ StratifiedJS is not the only JavaScript superset that tries to solve the async p
 
 Please don't forget to check the other parts of this JavaScript compiler series:
 
-- [Part I: Better JavaScript dialects](2017-02-14-JavaScript-compilers.-Part-I-Better-JavaScript-dialects.md)
-- [Part II: Languages that compile to JavaScript](2017-02-14-JavaScript-compilers.-Part-II-Languages-that-compile-to-JavaScript.md)
+- [Part I: Better JavaScript dialects](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.html)
+- [Part II: Languages that compile to JavaScript](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-II-Languages-that-compile-to-JavaScript.html)
 - [Part III: JavaScript - the new bytecode](2017-02-14-JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.md)
 
 VMA
