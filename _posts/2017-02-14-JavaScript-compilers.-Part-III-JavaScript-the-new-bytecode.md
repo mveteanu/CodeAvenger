@@ -24,7 +24,7 @@ While DOSBOX is mostly used by people to play old games, it can be successfully 
 Personally I just played with DOSBOX the other days when I use it to revive some of my old applications with the intent to capture a few screenshots and screencasts. I announced in a previous article that I open-source some of my 20+ years old software… therefore I needed a few screenshots. And I got plenty (as seen in Physics [http://www.vmasoft.net/physics.html](http://www.vmasoft.net/physics.html) and MCGA software [http://www.vmasoft.net/mcga.html](http://www.vmasoft.net/mcga.html) ).
 
 Anyway... back to the subject. While I used the regular DOSBOX version in my initial experiment, I soon discovered that there is a DOSBOX version compiled with Emscripten [https://github.com/dreamlayers/em-dosbox](https://github.com/dreamlayers/em-dosbox). This version runs basically in a web page.
-And since DOSBOX is basically an emulator, you can run other PC based software (for which you don’t own the source code) inside a web browser. There are plenty of examples of internet ranging from running DOS based games inside browser to running the full Windows 3.1 or even Windows 95 inside a Chrome browser.
+And since DOSBOX is basically an emulator, you can run other PC based software (for which you don’t own the source code) inside a web browser. There are plenty of examples on the internet ranging from running DOS based games inside browser to running the full Windows 3.1 or even Windows 95 inside a Chrome browser.
 
 And it works! It is true that Windows 95 takes a little bit longer to load and runs a little bit slower to be any good… but it works.
 
