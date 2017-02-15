@@ -41,6 +41,10 @@ If you used a common language in the past there is the chance there is a compile
 
 And even if you have a proprietary language in your application there is the possibility to create a compiler for that language and make your entire code base run on JavaScript.
 
-Please don’t forget to check the other parts of this JavaScript compilers series.
+Please don’t forget to check the other parts of this JavaScript compilers series:
+
+- [Part I: Better JavaScript dialects](2017-02-14-JavaScript-compilers.-Part-I-Better-JavaScript-dialects.md)
+- [Part II: Languages that compile to JavaScript](2017-02-14-JavaScript-compilers.-Part-II-Languages-that-compile-to-JavaScript.md)
+- [Part III: JavaScript - the new bytecode](2017-02-14-JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.md)
 
 VMA
