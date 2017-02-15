@@ -22,9 +22,10 @@ Transpilers
 
 Introducing Transpilers. Transpilers are specialized forms of compilers that compile one source language in a different language that supports the same level of abstraction. A basic compiler converts one language to a different language which may not have the same level of abstraction. Transpiler word has been there forever but only recently has been popularized to general public.
 The most popular transpilers currently available for JavaScript are:
-TypeScript [http://www.typescriptlang.org](http://www.typescriptlang.org) . TypeScript was created by Microsoft as open-source and is used by many projects including Angular.
-Babel [http://babeljs.io](http://babeljs.io) (originally named 6to5). Babel was created by an independent Australian developer and is used now by many projects including React.
-Traceur. [https://github.com/google/traceur-compiler](https://github.com/google/traceur-compiler)
+
+- TypeScript [http://www.typescriptlang.org](http://www.typescriptlang.org) . TypeScript was created by Microsoft as open-source and is used by many projects including Angular.
+- Babel [http://babeljs.io](http://babeljs.io) (originally named 6to5). Babel was created by an independent Australian developer and is used now by many projects including React.
+- Traceur. [https://github.com/google/traceur-compiler](https://github.com/google/traceur-compiler)
 
 The main focus of the above mentioned transpilers is to allow developers program against a future specification of JavaScript language.
 You can for instance develop against ECMAScript 6 and the transpiler will convert / compile the code to ECMAScript 5 code that all browsers can understand and run. It’s a win-win situation.
