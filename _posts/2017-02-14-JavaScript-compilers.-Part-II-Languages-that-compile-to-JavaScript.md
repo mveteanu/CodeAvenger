@@ -45,6 +45,6 @@ Please don’t forget to check the other parts of this JavaScript compilers seri
 
 - [Part I: Better JavaScript dialects](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.html)
 - [Part II: Languages that compile to JavaScript](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-II-Languages-that-compile-to-JavaScript.html)
-- [Part III: JavaScript - the new bytecode](2017-02-14-JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.md)
+- [Part III: JavaScript - the new bytecode](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.html)
 
 VMA
