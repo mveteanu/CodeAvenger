@@ -1,0 +1,10 @@
+.carousel-images
+{
+	width:1280px; 
+	height:720px;
+}
+
+.slick-prev:before, .slick-next:before
+{
+    color:navy;
+}
