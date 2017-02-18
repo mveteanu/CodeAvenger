@@ -8,18 +8,20 @@
 
     <section class="main-content">
       
-    text
+    <h1>Coding Bootcamps</h1>
 
       {% include bootcamps.html %}
 
     text
-
+      
+      <p class="meta">{{ page.date | date_to_string }}</p>
+      {% include sharebuttons.html %}
       {% include page-footer.html %}
-
     </section>
 
     {% include analytics.html %}
     
+
   </body>
 </html>
 
