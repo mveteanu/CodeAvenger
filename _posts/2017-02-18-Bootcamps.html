@@ -1,4 +1,8 @@
 
+---
+layout: default
+---
+
 	<script>
 		$(document).ready(function(){
 		  $('.carousel-images').slick({
@@ -114,3 +118,7 @@
     <div><img src="/img/posts/bootcamp/bootcamp098.png" width=1280 height=720></div>
     <div><img src="/img/posts/bootcamp/bootcamp099.png" width=1280 height=720></div>
 </div>
+
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+{% include sharebuttons.html %}
