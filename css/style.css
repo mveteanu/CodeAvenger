@@ -1,6 +1,7 @@
 .carousel-images
 {
 	width: 800px;
+	height: 450px;
 }
 
 .slick-prev:before, .slick-next:before
