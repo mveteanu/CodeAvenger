@@ -9,10 +9,17 @@
 			autoplaySpeed: 2000,
 			infinite: true,
 			speed: 2000,
+
+            slidesToShow: 3,
+            slidesToScroll: 3,
+
             responsive: [
                 {
                 breakpoint: 480,
-                settings: "unslick"
+                settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+                }
                 }
             ]
 			});
