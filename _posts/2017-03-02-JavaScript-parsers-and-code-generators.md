@@ -4,6 +4,10 @@ JavaScript parsers and code generators
 If you need to do automatic processing on a huge JavaScript code base (e.g. find and replace variable, method renaming, etc.) 
 or if you have a legacy code base that you plan to migrate to JavaScript, then the following JavaScript code parsers and generators may come handy.
 
+These tools break the traditional compiler architecture into granular pieces and expose the inner components to developers willing to use them.
+
+![](/img/posts/compiler.png)
+
 JavaScript parsers
 ------------------
 
