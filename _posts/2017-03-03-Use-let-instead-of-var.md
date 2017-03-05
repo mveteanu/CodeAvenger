@@ -21,6 +21,8 @@ What do you think is the result of execution of the above code snippet? At first
 
 Let’s see what can we do to the above code to make it produce 0, 1 and 2 in the console log.
 
+<b>this is html</b>
+
 Solution 1: Use let
 -------------------
 
