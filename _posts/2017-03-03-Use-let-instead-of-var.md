@@ -40,6 +40,7 @@ Check if your JavaScript environment (e.g. browser, etc.) supports ES6 already. 
     console.log(functions[2]());    // 2
 ```
 
+
 Solution 2: Use TypeScript
 --------------------------
 
