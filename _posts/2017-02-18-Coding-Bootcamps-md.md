@@ -1,6 +1,8 @@
 Coding Bootcamps
 ================
 
+<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto>
+
 In the recent years "Coding Bootcamps" started to appear all over the world. 
 They promise to teach students in a couple of month more than traditional educational institutions are teaching in years.
 
@@ -22,7 +24,7 @@ In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 </script>
 
 <div class="carousel-images" style='width:100%'>
-<div><a href="https://4geeksacademy.co">https://4geeksacademy.co</a><img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></img></div>
+<div><a href="https://4geeksacademy.co">https://4geeksacademy.co</a><img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></div>
 <div><a href="http://anyonecanlearntocode.com/">http://anyonecanlearntocode.com/<img src="/img/posts/bootcamp/bootcamp002.png" width=100% height=auto></a></div>
 <div><a href="https://www.bloc.io/">https://www.bloc.io/<img src="/img/posts/bootcamp/bootcamp003.png" width=100% height=auto></a></div>
 <div><a href="https://careerfoundry.com/">https://careerfoundry.com/<img src="/img/posts/bootcamp/bootcamp004.png" width=100% height=auto></a></div>
