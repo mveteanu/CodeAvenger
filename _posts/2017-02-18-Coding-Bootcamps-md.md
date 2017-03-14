@@ -6,8 +6,8 @@ They promise to teach students in a couple of month more than traditional educat
 
 In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 
-	<script>
-        
+<script>
+
 		$(document).ready(function(){
 		  $('.carousel-images').slick({
 		    arrows: true,
@@ -19,7 +19,7 @@ In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 			speed: 2000
 			});
 		});	
-	</script>
+</script>
 
 <div class="carousel-images" style='width:100%'>
     <div><a href="https://4geeksacademy.co">https://4geeksacademy.co<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></a></div>
