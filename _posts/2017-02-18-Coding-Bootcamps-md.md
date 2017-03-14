@@ -1,7 +1,9 @@
 Coding Bootcamps
 ================
 
-<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto />
+<p>
+<img src="/img/posts/bootcamp/bootcamp001.png" width="100%" height="auto">
+</p>
 
 In the recent years "Coding Bootcamps" started to appear all over the world. 
 They promise to teach students in a couple of month more than traditional educational institutions are teaching in years.
