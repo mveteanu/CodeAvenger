@@ -22,11 +22,11 @@ In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 </script>
 
 <div class="carousel-images" style='width:100%'>
-    <div><a href="https://4geeksacademy.co">https://4geeksacademy.co<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></a></div>
-    <div><a href="http://anyonecanlearntocode.com/">http://anyonecanlearntocode.com/<img src="/img/posts/bootcamp/bootcamp002.png" width=100% height=auto></a></div>
-    <div><a href="https://www.bloc.io/">https://www.bloc.io/<img src="/img/posts/bootcamp/bootcamp003.png" width=100% height=auto></a></div>
-    <div><a href="https://careerfoundry.com/">https://careerfoundry.com/<img src="/img/posts/bootcamp/bootcamp004.png" width=100% height=auto></a></div>
-    <div><a href="https://codakid.com/">https://codakid.com/<img src="/img/posts/bootcamp/bootcamp005.png" width=100% height=auto></a></div>
+<div><a href="https://4geeksacademy.co">https://4geeksacademy.co<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></a></div>
+<div><a href="http://anyonecanlearntocode.com/">http://anyonecanlearntocode.com/<img src="/img/posts/bootcamp/bootcamp002.png" width=100% height=auto></a></div>
+<div><a href="https://www.bloc.io/">https://www.bloc.io/<img src="/img/posts/bootcamp/bootcamp003.png" width=100% height=auto></a></div>
+<div><a href="https://careerfoundry.com/">https://careerfoundry.com/<img src="/img/posts/bootcamp/bootcamp004.png" width=100% height=auto></a></div>
+<div><a href="https://codakid.com/">https://codakid.com/<img src="/img/posts/bootcamp/bootcamp005.png" width=100% height=auto></a></div>
     <div><a href="http://www.codeastra.com/">http://www.codeastra.com/<img src="/img/posts/bootcamp/bootcamp006.png" width=100% height=auto></a></div>
     <div><a href="https://www.codeavengers.com/">https://www.codeavengers.com/<img src="/img/posts/bootcamp/bootcamp007.png" width=100% height=auto></a></div>
     <div><a href="https://www.codecademy.com/">https://www.codecademy.com/<img src="/img/posts/bootcamp/bootcamp008.png" width=100% height=auto></a></div>
