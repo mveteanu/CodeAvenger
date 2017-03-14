@@ -120,4 +120,4 @@ In an un-opinionated way, I’ll include below a list of such coding bootcamps:
     <div><a href="https://wecancodeit.org/">https://wecancodeit.org/<img src="/img/posts/bootcamp/bootcamp096.png" width=100% height=auto></a></div>
     <div><a href="https://www.wegotcoders.com/">https://www.wegotcoders.com/<img src="/img/posts/bootcamp/bootcamp097.png" width=100% height=auto></a></div>
     <div><a href="https://wyncode.co/">https://wyncode.co/<img src="/img/posts/bootcamp/bootcamp098.png" width=100% height=auto></a></div>
-</a></div>
+</div>
