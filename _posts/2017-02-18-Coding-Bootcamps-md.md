@@ -22,7 +22,7 @@ In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 </script>
 
 <div class="carousel-images" style='width:100%'>
-<div><a href="https://4geeksacademy.co">https://4geeksacademy.co<img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></a></div>
+<div><a href="https://4geeksacademy.co">https://4geeksacademy.co <img src="/img/posts/bootcamp/bootcamp001.png" width=100% height=auto></a></div>
 <div><a href="http://anyonecanlearntocode.com/">http://anyonecanlearntocode.com/<img src="/img/posts/bootcamp/bootcamp002.png" width=100% height=auto></a></div>
 <div><a href="https://www.bloc.io/">https://www.bloc.io/<img src="/img/posts/bootcamp/bootcamp003.png" width=100% height=auto></a></div>
 <div><a href="https://careerfoundry.com/">https://careerfoundry.com/<img src="/img/posts/bootcamp/bootcamp004.png" width=100% height=auto></a></div>
