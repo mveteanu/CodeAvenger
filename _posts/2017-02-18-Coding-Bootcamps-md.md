@@ -6,6 +6,9 @@ They promise to teach students in a couple of month more than traditional educat
 
 In an un-opinionated way, I’ll include below a list of such coding bootcamps:
 
+{% include bootcamps.html %}
+
+
 	<script>
 		$(document).ready(function(){
 		  $('.carousel-images').slick({
