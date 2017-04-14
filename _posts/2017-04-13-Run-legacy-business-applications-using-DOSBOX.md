@@ -9,23 +9,19 @@ A few month ago I announced that I [open-source my old software](http://www.code
 
 The following videos were captured from old [VMASOFT](http://www.vmasoft.net) software running under DOSBOX:
 
-Example: MCGA based DOS library running under DOSBOX
-----------------------------------------------------
-
 <video width="640" height="400" class="img-responsive" controls autoplay>
 <source src="https://github.com/mveteanu/MCGA/blob/master/screencasts/mcga.mp4?raw=true" type="video/mp4">
 Your browser does not support the video tag. 
 To view the screencast please visit https://github.com/mveteanu/MCGA/
 </video>
-
-Example: SVIDEO based DOS application running under DOSBOX
-----------------------------------------------------------
+*Example: MCGA based DOS library running under DOSBOX*
 
 <video width="800" height="600" class="img-responsive" controls autoplay>
 <source src="https://github.com/mveteanu/Physics/blob/master/screencasts/physics.mp4?raw=true" type="video/mp4">
 Your browser does not support the video tag.
 To view the screencast please visit https://github.com/mveteanu/Physics/
 </video>
+*Example: SVIDEO based DOS application running under DOSBOX*
 
 As weirds at may seem, there are still many DOS based applications out there running on old hardware. Their owners have to keep obsolete machines into production since those applications are not running on the latest hardware or operating systems. DOSBOX may prove a viable solution to these situations.
 
