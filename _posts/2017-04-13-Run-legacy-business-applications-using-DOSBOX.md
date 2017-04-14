@@ -7,6 +7,7 @@ Although developed to primarily run old DOS games on new hardware, DOSBOX can be
 
 A few month ago I announced that I [open-source my old software](http://www.codeavenger.com/2017/02/06/I-open-source-my-old-software.html). As part of the process I wanted to capture screen shots and videos showcasing the applications. DOSBOX helped successfully with this job. By using DOSBOX I was able to run again 20 years old software.
 
+The following videos were captured from old [VMASOFT](http://www.vmasoft.net) software running under DOSBOX:
 
 Example: MCGA based DOS library running under DOSBOX
 -------------------------------------------
