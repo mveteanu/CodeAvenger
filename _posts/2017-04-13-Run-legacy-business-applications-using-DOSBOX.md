@@ -8,7 +8,7 @@ Although developed to primarily run old DOS games on new hardware, DOSBOX can be
 A few month ago I anounced that I [open-source my old software](http://www.codeavenger.com/2017/02/06/I-open-source-my-old-software.html). As part of the process I wanted to capture screen shots and videos showcasing the applications. DOSBOX helped succesfully with this job. By using DOSBOX I was able to run again 20 years old software.
 
 
-MCGA based DOS library running under DOSBOX
+Example: MCGA based DOS library running under DOSBOX
 -------------------------------------------
 
 <video width="640" height="400" class="img-responsive" controls autoplay>
@@ -17,7 +17,7 @@ Your browser does not support the video tag.
 To view the screencast please visit https://github.com/mveteanu/MCGA/
 </video>
 
-SVIDEO based DOS application running under DOSBOX
+Example: SVIDEO based DOS application running under DOSBOX
 -------------------------------------------------
 
 <video width="800" height="600" class="img-responsive" controls autoplay>
