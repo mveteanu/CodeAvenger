@@ -14,7 +14,7 @@ The following videos were captured from old [VMASOFT](http://www.vmasoft.net) so
 Your browser does not support the video tag. 
 To view the screencast please visit https://github.com/mveteanu/MCGA/
 </video>
-*Above: MCGA based DOS library running under DOSBOX*
+*Above: [MCGA](http://www.vmasoft.net/mcga.html) - DOS based graphics library running under DOSBOX*
 
 
 <video width="800" height="600" class="img-responsive" controls autoplay>
@@ -22,7 +22,7 @@ To view the screencast please visit https://github.com/mveteanu/MCGA/
 Your browser does not support the video tag.
 To view the screencast please visit https://github.com/mveteanu/Physics/
 </video>
-*Above: SVIDEO based DOS application running under DOSBOX*
+*Above: [Physics](http://www.vmasoft.net/physics.html) - SVIDEO based DOS application running under DOSBOX*
 
 As weirds at may seem, there are still many DOS based applications out there running on old hardware. Their owners have to keep obsolete machines into production since those applications are not running on the latest hardware or operating systems. DOSBOX may prove a viable solution to these situations.
 
