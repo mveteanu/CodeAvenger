@@ -30,6 +30,6 @@ As weirds at may seem, there are still many DOS based applications out there run
 DOSBOX in a web browser
 -----------------------
 
-There is even possible to run DOSBOX in a web browser. For more details about that option and the technology behind it, please check by other [article](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.html).
+There is even possible to run DOSBOX in a web browser. For more details about that option and the technology behind it, please check my other [article](http://www.codeavenger.com/2017/02/14/JavaScript-compilers.-Part-III-JavaScript-the-new-bytecode.html).
 
 VMA
