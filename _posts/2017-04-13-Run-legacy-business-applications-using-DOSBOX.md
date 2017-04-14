@@ -26,6 +26,6 @@ Your browser does not support the video tag.
 To view the screencast please visit https://github.com/mveteanu/Physics/
 </video>
 
-As weirds at may seem, there are still many DOS based applications outhere running on old hardware. Their owners have difficulties upgrading the hardware since those applications are not running on latest hardware and / or software. DOSBOX may prove a viable solution to these situations.
+As weirds at may seem, there are still many DOS based applications out there running on old hardware. Their owners have to keep obsolete machines into production since those applications are not running on the latest hardware or operating systems. DOSBOX may prove a viable solution to these situations.
 
 VMA
