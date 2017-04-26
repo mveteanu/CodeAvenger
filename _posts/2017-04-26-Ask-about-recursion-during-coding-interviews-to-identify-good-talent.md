@@ -2,7 +2,9 @@ Ask about recursion during coding interviews to identify good talent
 ====================================================================
 
 Let's start by stating the obvious: good talent is a very relative concept. 
+
 What is good for some projects may be totally insufficient for other projects. A developer may perform admirably as application developer but not that great as framework or system developer.  In the same time, some projects may benefit more from resources with solid business knowledge about a particular field while other projects may require developers with good coding or algorithmic skills.
+
 It's up to you to decide what skills will be more useful to your project.
 
 Let's say you are looking for a good developer that you want to write code on a core component of your application. 
@@ -19,9 +21,12 @@ var ar = [2, 4, 10, [12, 4, [100, 99], 4], [3, 2, 99], 0];
 
 Since this was a JavaScript interview, the candidates used Notepad to type the code and Chrome to test it.
 
-To my surprise a lot of candidates that looked good otherwise, had problems creating a function that finds the maximum value in a jagged array!!! 
+To my surprise a lot of candidates that looked good otherwise, had problems creating a function that finds the maximum value in a jagged array!!!
+
 Even if they thought about using recursion they had hard time putting it in practice. They've spent almost an hour trying to create the recursive function without success.
+
 Some may say: how is this test relevant? You may miss some talent if you are asking this kind of questions.
+
 And this gets back to the first statement that I made at the beginning of the article. However, for most programming jobs I consider knowing recursion a basic skill. Do you agree with me? Nowadays, more than ever, you have the need to process hierarchical structures such as XML documents, JSON objects or hierarchies of controls.
 
 While I'm not surprised anymore to see good developers not knowing recursion, in a past interview I had a nice surprise from a candidate. When faced with the problem he asked me back: do you want to do this with recursion or without? Now that's a candidate that you want to hire.
