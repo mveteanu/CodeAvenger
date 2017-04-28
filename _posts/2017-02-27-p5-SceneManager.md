@@ -1,7 +1,7 @@
-p5.js SceneManager
-==================
+p5.js SceneManager (Manage multiple scenes in p5.js sketches)
+=============================================================
 
-I discovered the p5.js library a few month ago when I start teaching programming to a small group of people at my organization. Doing a little bit of research I saw that p5.js is not only used in academic situations … but a few people are creating games using this fun and easy to use library. 
+I discovered the [p5.js](http://p5js.org/) library a few month ago when I start teaching programming to a small group of people at my organization. Doing a little bit of research I saw that p5.js is not only used in academic situations ... but a few people are creating games using this fun and easy to use library. 
 One of the common tasks in game development is splitting the game is several scenes. Perhaps your game can have:
 
 -	GameIntro
