@@ -23,6 +23,6 @@ It was that time when I put the base of [VMASOFT](http://www.vmasoft.net).
 
 Since then I still encountered assembly programming from time to time: on PC 80x86 as well as a few microcontrollers.
 
-Nowadays ... I’m at the far end of the spectrum involved mostly in hi-level enterprise software architectures as well as management decisions.
+Nowadays ... I’m at the far end of the spectrum involved mostly in hi-level enterprise software architectures as well as management decisions as [R&D Manager](https://www.linkedin.com/in/mveteanu) at Abbott Informatics.
  
 However the experience that I had back in the days with my Z80 based computer and the fact that I start exploring the computer world at the age of 13 shaped by entire professional career and offered me a unique perspective on the overall computer science.
