@@ -33,7 +33,6 @@ The command is very useful for testing installation kits or running a CD from a 
 subst [drive1: [drive2:]path]
 `
 
-
 4. Compares two binary files 
 
 This command is useful to check if two files are identical. Checking only the file sizes is not enough since the content may be different.
@@ -98,3 +97,5 @@ You can use this command to automate the process of computer shutdown. Some pref
 `sh
 shutdown -s -f -t 00 
 `
+
+Article reposted from [www.itobserver.net](http://www.itobserver.net/2007/09/10-useful-windows-command-line-commands.html) blog.
