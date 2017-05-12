@@ -1,1 +1,2 @@
-ECHO is on.
+
+![](/img/posts/vmasoft/htmlindexer.png)

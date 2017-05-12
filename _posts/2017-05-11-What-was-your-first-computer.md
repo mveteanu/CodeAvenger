@@ -9,7 +9,7 @@ I’ll tell you my experience:
 
 ![](/img/posts/HC.png)
 
-I was about 13 – 14 years old when I got my first computer -  a clone of a very popular 8 bit home computer at that time (at least in Europe). It was a HC-90 an identical clone of [Sinclair ZX-Spectrum 48K](https://en.wikipedia.org/wiki/ZX_Spectrum).
+I was about 13 - 14 years old when I got my first computer -  a clone of a very popular 8 bit home computer at that time (at least in Europe). It was a HC-90 an identical clone of [Sinclair ZX-Spectrum 48K](https://en.wikipedia.org/wiki/ZX_Spectrum).
 
 It had 3.5MHz Z80 CPU and 64KB of total memory (including the 16KB of ROM and video memory).
 
