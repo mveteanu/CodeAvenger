@@ -92,16 +92,16 @@ This list includes some of the most useful and less known commands that you can 
 9. Lock workstation 
 -------------------
 
-You can lock your workstation by running this command.
+    You can lock your workstation by running this command.
 
     ```sh
     rundll32.exe user32.dll,LockWorkStation
     ```
-    
+
 10. Shutdown local computer
 --------------------------- 
 
-You can use this command to automate the process of computer shutdown. Some prefer to put it as a link on the desktop.
+    You can use this command to automate the process of computer shutdown. Some prefer to put it as a link on the desktop.
 
     ```sh
     shutdown -s -f -t 00 
