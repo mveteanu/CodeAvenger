@@ -6,7 +6,8 @@ This list includes some of the most useful and less known commands that you can 
 
 ![](/img/posts/cmd.png)
 
-1. Quickly create an empty file of an arbitrary size 
+1. Quickly create an empty file of an arbitrary size
+---------------------------------------------------- 
 
     This command is useful if you quickly need a file of a certain size. The command execution is instantaneous (no matter what you put for length), but the file contains only zeros.
 
@@ -88,7 +89,7 @@ You can lock your workstation by running this command.
     ```sh
     rundll32.exe user32.dll,LockWorkStation
     ```
-
+    
 10. Shutdown local computer 
 
 You can use this command to automate the process of computer shutdown. Some prefer to put it as a link on the desktop.
