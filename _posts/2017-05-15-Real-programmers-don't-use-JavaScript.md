@@ -1,14 +1,19 @@
 Real programmers don't use JavaScript (or the paradox of JavaScript programmers)
 ================================================================================
 
-Do you remember the old quote: "Real programmers don't use Pascal"... Before starting to reflect on it, I'll give you a new one: "Real programmers don't use JavaScript"!
+Do you remember the old quote: "Real programmers don't use Pascal"... 
+
+Before starting to reflect on it, I'll give you a new one: "Real programmers don't use JavaScript"!
+
 This is the paradox of JavaScript programmers.
 
 JavaScript in 2017
 ------------------
 
 JavaScript language is nowadays one of the most popular languages. 
+
 It basically drives the Web 2.0, HTML5 and Node.JS revolutions being used in some very complex client-side as well as server-side projects.
+
 Over the last few years, JavaScript become the common denominator in desktop - web - mobile development. 
 
 
