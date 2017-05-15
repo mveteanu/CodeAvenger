@@ -2,9 +2,7 @@ Real programmers don't use JavaScript (or the paradox of JavaScript programmers)
 ================================================================================
 
 Do you remember the old quote: "Real programmers don't use Pascal"... 
-
 Before starting to reflect on it, I'll give you a new one: "Real programmers don't use JavaScript"!
-
 This is the paradox of JavaScript programmers.
 
 JavaScript in 2017
