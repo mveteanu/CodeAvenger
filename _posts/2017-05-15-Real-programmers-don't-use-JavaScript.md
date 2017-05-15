@@ -5,6 +5,8 @@ Do you remember the old quote: "Real programmers don't use Pascal"...
 Before starting to reflect on it, I'll give you a new one: "Real programmers don't use JavaScript"!
 This is the paradox of JavaScript programmers.
 
+![](/img/posts/real_js.png)
+
 JavaScript in 2017
 ------------------
 
