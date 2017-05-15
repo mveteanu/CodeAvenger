@@ -34,4 +34,4 @@ How come that you can easily find good programmers if you are looking for Java /
 
 Is JavaScript language just for new comers?  Maybe those [bootcamps](http://www.codeavenger.com/2017/02/18/Coding-Bootcamps.html) that prepare JavaScript developers should offer also a base computer science course. Of course - all the admiration goes to self though programmers. No complaint here!
 
-In conclusion, if you intend to hire someone to build you a JavaScript framework, you may have more success to look for Java / C# developers. They'll be able to pick up JavaScript in no time and as a bonus you may be able to get developers with a solid CS background.
+In conclusion, if you intend to hire someone to build you a JavaScript framework, you may have more success to look for Java / C# developers. They'll be able to pick up JavaScript in no time and as a bonus you may be able to get developers with a solid computer science background.
