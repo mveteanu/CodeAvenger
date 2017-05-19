@@ -89,7 +89,8 @@ Attack the problem
 ------------------
 
 With more precise tools at our disposal, we are now ready to tackle that (scientific) calculation and expect to get correct results each and every time. 
-There are plenty of calculations that make use of modulo arithmetic… however for fun purposes I’ll show you how you can use modulo to implement Caesar Cipher – a very simple form of encryption, in which each letter in the original message is shifted to the left or right by a certain number of positions.
+
+There are plenty of calculations that make use of modulo arithmetic... however for fun purposes I’ll show you how you can use modulo to implement [Caesar Cipher](https://learncryptography.com/classical-encryption/caesar-cipher) – a very simple form of encryption, in which each letter in the original message is shifted to the left or right by a certain number of positions.
 
 To decrypt the message we simply shift back the letters the same number of positions.
 
@@ -139,8 +140,8 @@ function encrypt(msg, key)
 
 Have fun! Encrypt a few messages to try out the code. Remember: If you encrypt with a positive key, use the complementary negative key to decrypt it.
 
-You can also use this code to decode those ROT13 messages that appears everywhere on the web and newsgroups. 
+You can also use this code to decode those [ROT13](https://en.wikipedia.org/wiki/ROT13) messages that appears everywhere on the web and newsgroups. 
 
-In a future article, I will tackle other ‘limitations’ and solutions to common languages and frameworks such as working correctly with floating point (IEEE 754) numbers in scientific calculations.
+In a future article, I will tackle other 'limitations' and solutions to common languages and frameworks such as working correctly with floating point (IEEE 754) numbers in scientific calculations.
 
 VMA
