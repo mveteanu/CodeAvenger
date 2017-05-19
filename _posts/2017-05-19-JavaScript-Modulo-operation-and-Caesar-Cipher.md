@@ -8,7 +8,7 @@ Try to ignore the limitations or framework specs and soon you’ll find out that
 Modulo operator
 ---------------
 
-Sometimes the situations is complicated by falsely advertised or understood framework functions or operators. This article focuses on the modulo operator.
+Sometimes the situations is complicated by falsely advertised or understood framework functions or operators. This article focuses on the *modulo* operator.
 
 Ask any C# or JavaScript programmer what is the modulo operator in their language and there is a big chance that they’ll gone answer: % (e.g. the percentage sign). Plenty of documentation refer to the % sign as modulo operator.
 
@@ -31,8 +31,8 @@ Let’s now try to use a negative value as the first operand:
 
 Surprise!
 
--5 % 3 = 1 (according to Google)
--5 % 3 = -2 (according to JavaScript)
+- -5 % 3 = 1 (according to Google)
+- -5 % 3 = -2 (according to JavaScript)
 
 Well ... this shouldn’t be actually a surprise if we look at the definition of % operator in JavaScript (… or even C# or many other languages). Google calculates the true modulo, while these computer languages calculate a signed reminder.
 
