@@ -23,4 +23,4 @@ Features
 ![](/img/posts/vmasoft/mcga27.png)
 
 For dowload and more details please visit the library page on VMASOFT website:
-http://www.vmasoft.net/mcga.html
+[http://www.vmasoft.net/mcga.html](http://www.vmasoft.net/mcga.html)

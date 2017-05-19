@@ -12,4 +12,4 @@ The VMAWin library has been already used in the following two VMASOFT educationa
 ![](/img/posts/vmasoft/vmawincrop02.png)
 
 For more information about VMAWin library and download, please refer to VMASOFT product page:
-http://www.vmasoft.net/vmawin.html
+[http://www.vmasoft.net/vmawin.html](http://www.vmasoft.net/vmawin.html)
