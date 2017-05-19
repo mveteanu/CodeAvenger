@@ -1,3 +1,6 @@
+JavaScript Modulo operation and the Caesar Cipher
+=================================================
+
 Successful implementation of a scientific calculation or algorithm is possible not only by understanding the features that a particular language or framework offers but also understanding the limitations.
 
 Computers are precise scientific instruments but they do they work by manipulating entities in discrete spaces (you have a limited number of pixels on the screen, there is a limited numbers of bits that are behind each number, etc.)
