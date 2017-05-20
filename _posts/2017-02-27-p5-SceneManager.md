@@ -62,6 +62,6 @@ Note: The library is still work in progress. Please feel free to extend it as ne
 Online demo
 -----------
 
-<iframe style="width:100%; height:100%; border-style:0px" border="0" src="http://www.vmasoft.net/p5/game.html"></iframe>
+<iframe style="width:100%; height:800px; border-style:0px" border="0" src="http://www.vmasoft.net/p5/game.html"></iframe>
 
 You can try a mini game built using SceneManager hosted on my old website at [http://www.vmasoft.net/p5/game.html](http://www.vmasoft.net/p5/game.html) 
