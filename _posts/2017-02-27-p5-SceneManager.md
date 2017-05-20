@@ -62,6 +62,6 @@ Note: The library is still work in progress. Please feel free to extend it as ne
 Online demo
 -----------
 
-<iframe style="width:100%; height:800px; border:0" frameborder="0" scrolling="no" src="http://www.vmasoft.net/p5/game.html">http://www.vmasoft.net/p5/game.html</iframe>
+<iframe style="width:100%; height:540px; border:0" frameborder="0" scrolling="no" src="http://www.vmasoft.net/p5/game.html">http://www.vmasoft.net/p5/game.html</iframe>
 
 You can try a few more samples created with p5.SceneManager at [http://www.vmasoft.net/p5/](http://www.vmasoft.net/p5/) 
