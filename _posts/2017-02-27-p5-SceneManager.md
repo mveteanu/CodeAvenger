@@ -59,8 +59,8 @@ Source Code
 You can get the source code for free from GitHub at [https://github.com/mveteanu/p5.SceneManager](https://github.com/mveteanu/p5.SceneManager) 
 Note: The library is still work in progress. Please feel free to extend it as necessary.
 
-Online demo
------------
+Demo
+----
 
 <iframe style="width:100%; height:540px; border:0" frameborder="0" scrolling="no" src="http://www.vmasoft.net/p5/game.html">http://www.vmasoft.net/p5/game.html</iframe>
 
