@@ -21,7 +21,7 @@ for (uint i = 0; i < uint.MaxValue; i++)
 }
 ```
 
-uint.MaxValue is the number that you obtain when you set all bits of the variable to 1. It is basically equal to 232 – 1 = 4294967295. This is about 4.2 billion.
+uint.MaxValue is the number that you obtain when you set all bits of the variable to 1. It is basically equal to 2^32 – 1 = 4294967295. This is about 4.2 billion.
 
 The test code for the case with 64 bit variable is similar:
 
@@ -32,13 +32,13 @@ for (ulong i = 0; i < ulong.MaxValue; i++)
 }
 ```
 
-ulong.MaxValue is this time 2^64^ – 1 = 18446744073709551615 (a 20 digit number).
+ulong.MaxValue is this time 2^64 – 1 = 18446744073709551615 (a 20 digit number).
 
 At about 1 billion Process() operations / second, the first program will finish its job in: 
-232 / 1000000000 = 4.29 seconds
+2^32 / 1000000000 = 4.29 seconds
 
 At the same processing speed, the second program will finish its job in:
-2^64^ / 1000000000 / 3600 / 24 / 365 = 585 years! 
+2^64 / 1000000000 / 3600 / 24 / 365 = 585 years! 
 
 That's quite a difference!!! Who has the time to wait 585 years for a basic for to finish its job! 
 
@@ -49,7 +49,7 @@ For majority of people the above exercise is a fun visualization of 64 bit power
 Other big numbers
 -----------------
 
-As a recap, remember that the maximum number stored in a 64 bit register / variable is 2^64^ – 1 = 18446744073709551615 (a 20 digit number). As big at it seems this number is still small when compared for instance with 1 googol which is 1100 (1 followed by 100 zeros) !
+As a recap, remember that the maximum number stored in a 64 bit register / variable is 2^64 – 1 = 18446744073709551615 (a 20 digit number). As big at it seems this number is still small when compared for instance with 1 googol which is 1100 (1 followed by 100 zeros) !
 
 And even the big googol is smaller than 70! (70 factorial which is 1 * 2 * … * 70). Wow! This really shows the power of multiplication!
 
