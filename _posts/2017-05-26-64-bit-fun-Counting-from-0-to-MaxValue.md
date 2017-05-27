@@ -35,10 +35,12 @@ for (ulong i = 0; i < ulong.MaxValue; i++)
 ulong.MaxValue is this time 2^64 – 1 = 18446744073709551615 (a 20 digit number).
 
 At about 1 billion Process() operations / second, the first program will finish its job in: 
-2^32 / 1000000000 = 4.29 seconds
+
+- 2^32 / 1000000000 = 4.29 seconds
 
 At the same processing speed, the second program will finish its job in:
-2^64 / 1000000000 / 3600 / 24 / 365 = 585 years! 
+
+- 2^64 / 1000000000 / 3600 / 24 / 365 = 585 years! 
 
 That's quite a difference!!! Who has the time to wait 585 years for a basic for to finish its job! 
 
