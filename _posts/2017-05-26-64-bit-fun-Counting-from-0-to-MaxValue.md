@@ -49,9 +49,9 @@ For majority of people the above exercise is a fun visualization of 64 bit power
 Other big numbers
 -----------------
 
-As a recap, remember that the maximum number stored in a 64 bit register / variable is 2^64 – 1 = 18446744073709551615 (a 20 digit number). As big at it seems this number is still small when compared for instance with 1 googol which is 1100 (1 followed by 100 zeros) !
+As a recap, remember that the maximum number stored in a 64 bit register / variable is 2^64 – 1 = 18446744073709551615 (a 20 digit number). As big at it seems this number is still small when compared for instance with 1 googol which is 10^100 (1 followed by 100 zeros) !
 
-And even the big googol is smaller than 70! (70 factorial which is 1 * 2 * … * 70). Wow! This really shows the power of multiplication!
+And even the big googol is smaller than 70! (70 factorial which is 1 * 2 * ... * 70). Wow! This really shows the power of multiplication!
 
 And you know what: the googol is well within the range of the double data type (IEEE 754 floating point) – also a 64 bit structure. How double manages to store such big numbers will be presented in a future article.
 
