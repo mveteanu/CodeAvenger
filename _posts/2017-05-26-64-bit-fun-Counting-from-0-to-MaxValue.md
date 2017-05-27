@@ -12,7 +12,7 @@ Since this is a fun article, I won’t go into the math of 64 bit arithmetic nor
 
 Count from 0 to maximum value that can be stored in a variable. First time use a 32 bit wide variable and second time use a 64 bit wide variable. Try to estimate the results.
 
-In C#, the code may look like this for 32 bit variable:
+In C#, the code may look like this for 32 bit variable (... ignore please the off by one issue):
 
 ```csharp
 for (uint i = 0; i < uint.MaxValue; i++)
