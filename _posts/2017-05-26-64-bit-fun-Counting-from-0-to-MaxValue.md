@@ -14,7 +14,7 @@ Count from 0 to maximum value that can be stored in a variable. First time use a
 
 In C#, the code may look like this for 32 bit variable:
 
-```C
+```csharp
 for (uint i = 0; i < uint.MaxValue; i++)
 {
     Process(i);
@@ -25,7 +25,7 @@ uint.MaxValue is the number that you obtain when you set all bits of the variabl
 
 The test code for the case with 64 bit variable is similar:
 
-```C
+```csharp
 for (ulong i = 0; i < ulong.MaxValue; i++)
 {
     Process(i);
