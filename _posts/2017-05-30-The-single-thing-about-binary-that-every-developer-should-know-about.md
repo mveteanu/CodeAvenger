@@ -25,7 +25,7 @@ In this case, we find out by reading the question carefully, that in the bit bas
 
 Therefore, to answer the question, the maximum natural number that can be represented on n bits is 2^n – 1.
 
-As you can see in the formula, obtaining the maximum number can be calculated simply by subtracting 1 from 2^n. Knowing power of 2 for common n values comes handy in many other situations, therefore any developers should be familiar with the most commonly encountered 2 powers:
+As you can see in the formula, obtaining the maximum number can be calculated simply by subtracting 1 from 2^n. Knowing power of 2 for common n values comes handy in many other situations, therefore any developers should be familiar with the most commonly encountered powers of 2:
 
 -----|-----
 2^0  |	1
