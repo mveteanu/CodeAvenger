@@ -8,7 +8,7 @@ Following the success of PowerTests, [VMASOFT](http://www.vmasoft.net) is now la
 Features
 --------
 
-- Designed for educational environments only (not for companies - like other products);
+- Designed for educational environments only (not for business environments - like competing products);
 - Tests with unlimited number of items selected explicit or random based on special filtering criteria;
 - Tests must be solved in a given amount of time;
 - Test items can contain formatted text and graphics;
