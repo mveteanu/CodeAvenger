@@ -27,7 +27,7 @@ Technology
 PowerTests.NET is a web based application built using the latest DHTML technologies for achieving a desktop-like rich experience in a web browser.
 
 - Front-end: pure DHTML (DOM + CSS + Scripting) for IE5.5 with VBScript as scripting language
-- Back-end: Classic ASP pages with VBScript as scripting language
+- Back-end: Microsoft ASP pages with VBScript as scripting language
 - Database: Microsoft .MDB
 
 
