@@ -1,7 +1,7 @@
 PowerTests.NET
 ==============
 
-Following the success of PowerTests, [VMASOFT](http://www.vmasoft.net) is now launching the web based version of this popular student knowledge assesment tool.
+Following the success of PowerTests, [VMASOFT](http://www.vmasoft.net) is now launching the web based version of this popular student knowledge assesment tool. The new application is named [PowerTests.NET](http://www.powertests.net) 
 
 ![](/img/posts/vmasoft/ptn.png)
 
