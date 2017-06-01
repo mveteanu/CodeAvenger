@@ -7,7 +7,8 @@ Intrigued by this event, I wanted to see what's on the boot sector of that diske
 
 To my surprise, it was a romanian virus (based on the text messages contained inside).
 
-For educational purposes, I commented out the code of entire virus, as well as the effects of this virus...
+For educational purposes, I commented out the code of entire virus, as well as the effects of this virus... 
+I even created an 'installer' like application. Let's be clear: the installer is mine... the virus provenience is unknown. 
 
 I commented out the virus in romanian since this will be used in an educational paper that I plan to publish.
 
@@ -26,7 +27,7 @@ The result of running these commands will be a .COM file. If you run it it will 
 ; = de VMA soft in 1997 pentru scopuri educationale =
 ; ===================================================
 
-; RP.B este un virus rom�nesc care isi face aparitia vizuala in luna Mai.
+; RP.B este un virus romanesc care isi face aparitia vizuala in luna Mai.
 ; Daca luna curenta este mai el afiseaza in bucla infinita urmatorul
 ; mesaj :  "Only bugs exist! RP 1995 Bucharest" neproducand infectii.
 ; Daca nu este luna mai atunci el infecteaza sectoarele de boot ale disktelor
