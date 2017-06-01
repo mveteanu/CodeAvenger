@@ -1,7 +1,7 @@
 PowerTests
 ==========
 
-A new educational title is launched: VMASOFT PowerTests.
+A new educational title is launched: [VMASOFT PowerTests](http://www.vmasoft.net/powertests.html).
 
 ![](/img/posts/vmasoft/powertests.png)
 
