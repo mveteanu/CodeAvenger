@@ -11,7 +11,7 @@ Well... I finally made it. I created a didactic computer virus that piggyback on
 It is not a real world virus -- just a didactic one... but funny enough Thunderbolt antivirus doesn't recognize it even when scanned using the heuristic method. 
 
 
-```ASM
+```assembly
 ; This is a didactic virus... code is very, very unoptimized !
 
 lungime equ ((offset sfirsit)-(offset entry))
