@@ -1,5 +1,5 @@
-How computer viruses work
-=========================
+How computer viruses work?
+==========================
 
 >> Viruses: A virus is a small piece of software that piggybacks on real programs.
 
@@ -8,7 +8,7 @@ What better way to learn more about tech and computer viruses than to write your
 
 Well... I finally made it. I created a didactic computer virus that piggyback on .COM files.
 
-It is not a real world virus -- just a didactic one... but funny enough Thunderbolt antivirus doesn't recognize it even when scanned using the heuristic method. 
+It is not a real world virus -- just a didactic one... but funny enough Thunderbolt Antivirus doesn't recognize it even when scanned using the heuristic method. 
 
 
 ```assembly
