@@ -56,7 +56,7 @@ Design problem
 
 Before closing the article, let me give you a quick design problem:
 
->> You want to design a timestamp like structure to record the time, with millisecond accuracy, for the next 100 years. How many bits do you need to do this?
+> You want to design a timestamp like structure to record the time, with millisecond accuracy, for the next 100 years. How many bits do you need to do this?
 
 First we need to figure out approximately how many milliseconds are in 100 years. Since we try to simplify the calculations, we will be generous and approximate all years to 366 days.
 
