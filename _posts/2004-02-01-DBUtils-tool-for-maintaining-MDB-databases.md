@@ -1,5 +1,5 @@
-DBUtils - tool for maintaining MDB databases
-============================================
+DBUtils - tool for maintaining codebases and MDB databases
+==========================================================
 
 While working on [PowerTests.NET](http://www.powertests.net), I realized that the tools available in Visual Studio and Microsoft Access are sometime insuficient for certain refactoring tasks.
 In particular, I found extremely difficult to answer to these questions:
