@@ -1,10 +1,16 @@
-Client: I need to develop an application:
+#Development: Then and Now
 
-Developer:
+##Client: I need to develop an application.
 
-- 1997: Sure. I can create for you a modern Windows application. I just need to install Visual Basic or Delphi from the CD and I will be up and running in 1 hour. I will deliver the application next month together with a step by step installation kit.
+##Developer
 
-- 2017: Sure. I can create for you a modern Web application. Today is easier than ever. Today we have granularity and choice ... not like 20 years ago. I just need to glue together a few prebuild frameworks and technologies:
+###1997
+
+Sure. I can create for you a modern Windows application. I just need to install Visual Basic or Delphi from the CD and I will be up and running in 1 hour. I will deliver the application next month together with a step by step installation kit.
+
+###2017
+
+Sure. I can create for you a modern Web application. Today is easier than ever. Today we have granularity and choice ... not like 20 years ago. I just need to glue together a few prebuild frameworks and technologies.
 
  The client-side is easy. [HTML5](https://www.w3schools.com/html/html5_intro.asp) and [CSS3](https://www.w3schools.com/css/css3_intro.asp) together with [JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm) are great for building interactive Web applications. 
 
@@ -42,4 +48,3 @@ Developer:
  Do you want a relational database or a [NOSQL](https://en.wikipedia.org/wiki/NoSQL) database?
 
  And finally I totally recommend building also a companion mobile application. HTML5 web applications cannot realy access the hardware of modern mobile devices. But don't worry: we have plenty of options here too...
- 
