@@ -1,5 +1,5 @@
-Create self-grading quizzes with Google / Microsoft Forms
-=========================================================
+Create self-grading quizzes with Google Forms or Microsoft Forms
+================================================================
 
 Everyone appreciates the power of tools such as [Google Forms](http://forms.google.com) or [Microsoft Forms](http://forms.office.com) for implementing contact forms, surveyes or collect various data / registration information. 
 
