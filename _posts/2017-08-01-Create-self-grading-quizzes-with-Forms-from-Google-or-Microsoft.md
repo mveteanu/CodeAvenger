@@ -17,7 +17,7 @@ However, Google / Microsoft you can implement this feature very naturaly in your
 
 > add the ability to create forms with static questions as well as questions randomly selected from other forms.
 
-In this way, one may create many forms with static questions (each static form acting as a repository of related questions) and then define one extra form that will become the assessment form. Perhaps the extra form will contain a few static question and then will be configured to randomly pick the rest of the questions from the other static forms according to certain rules.
+In this way, one may create many forms with static questions (each static form acting as a repository of related questions) and then define one extra form that will become the assessment form. Perhaps the extra form will contain a few static questions and then will be configured to randomly pick the rest of the questions from the other static forms according to certain rules.
 
 What do you think? I intended to create a Form to collect your feedback... but since is getting late I have to rely on the Comments below.
 
