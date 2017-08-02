@@ -9,11 +9,11 @@ It's up to you to decide what skills will be more useful to your project.
 
 Let's say you are looking for a good developer that you want to write code on a core component of your application. 
 
->>> You should not care too much if he knows a certain framework or not but instead see if he has good programming background. One of the questions that you can ask him to validate this is a question about recursion.
+> You should not care too much if he knows a certain framework or not but instead see if he has good programming background. One of the questions that you can ask him to validate this is a question about recursion.
 
 We had recently the need to select a few good JavaScript developers. Since the candidates were located remotely, I conducted the interviews via webex. The candidates were sharing the camera and the screen so I can see them typing.
 
->>> This is one of the questions I've asked the candidates: Find the maximum number in a jagged array. Each element of the array can be a number or an array of other numbers on indefinite number of levels, like this:
+> This is one of the questions I've asked the candidates: Find the maximum number in a jagged array. Each element of the array can be a number or an array of other numbers on indefinite number of levels, like this:
 
 ```JavaScript
 var ar = [2, 4, 10, [12, 4, [100, 99], 4], [3, 2, 99], 0];
