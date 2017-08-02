@@ -7,9 +7,7 @@ But... did you know that both Google Forms and Microsoft Forms can be used to cr
 
 ![](/img/posts/forms.png)
 
-However - these products are lacking one important feature that would transform basic quizzes into powerful assesment tools. That feature is: 
-
-> the ability to randomly select questions from a predefined database.
+However - these products are lacking one important feature that would transform basic quizzes into powerful assesment tools. That feature is: the ability to randomly select questions from a predefined database.
 
 This feature alone was the star of the [PowerTests.NET](http://www.powertests.net) product that I architected / developed more that 15 years ago. It is true that this was developed as an assessment tool (which is outside the scope of Google / Microsoft Forms) and contained also other tools beyond forms. 
 
