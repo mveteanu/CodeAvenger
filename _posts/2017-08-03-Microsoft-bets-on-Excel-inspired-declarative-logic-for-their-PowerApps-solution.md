@@ -5,7 +5,7 @@ Microsoft bets on Excel-inspired declarative logic for their PowerApps solution
 
 When faced with the task of building an application, expert programmers are probably choosing to one of the many [options](http://www.codeavenger.com/2017/06/14/Development-then-and-now.html) available today for this task. However, this is beyond the reach of [citizen developers](http://www.codeavenger.com/2017/07/24/From-VB6-to-modern-low-code-platforms-for-citizen-developer.html) of typical corporations. This is where low-code platforms like PowerApps shine.
 
-What attracted my attention to PowerApps and prompted to write this article is Microsoft’s vision of building an app builder tool powered by Excel like formulas. Being involved myself in designing and building low-code tools, I understand the challenges that you have to solve in order to create easy to use authoring tools for people that don't typically have a computer science background. 
+What attracted my attention to PowerApps and prompted to write this article is Microsoft’s vision of building an app builder tool powered by Excel like formulas. Being [involved](https://www.linkedin.com/in/mveteanu/) myself in designing and building low-code tools, I understand the challenges that you have to solve in order to create easy to use authoring tools for people that don't typically have a computer science background. 
 
 ![](/img/posts/powerapps.gif)
 
