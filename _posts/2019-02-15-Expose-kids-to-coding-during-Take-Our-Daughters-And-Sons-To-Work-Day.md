@@ -7,6 +7,8 @@ If you are working in a software company, is a great opportunity to expose kids 
 
 Therefore, besides the regular office tour and pizza, try to organize also an [Hour of Code](https://hourofcode.com/) session. There are many programming languages that you can show to the kids including Python and / or JavaScript. Of course, you need to use a kid friendly environment such as [CodeGuppy](https://codeguppy.com) or any other web based environment which lets kids taste coding in a fun way without complex installs. Ask one developer from your organization to organize this session and introduce the kids to coding.
 
+![](/img/posts/codeguppy.png)
+
 Please don’t forget to share your experiences on this topic!
 
 Marian
