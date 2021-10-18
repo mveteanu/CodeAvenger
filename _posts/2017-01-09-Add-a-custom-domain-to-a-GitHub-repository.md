@@ -75,6 +75,14 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
    The A records will point to the following two IP addresses as required by GitHub and explained [here](https://help.github.com/articles/setting-up-an-apex-domain/)
 
+
+   - 185.199.108.153
+   - 185.199.109.153
+   - 185.199.110.153
+   - 185.199.111.153
+
+Warning: In the past these IPs used to be the following ones. In case you used these old ones, you will have to reconfigure your DNS setting:
+
    - 192.30.252.153
    - 192.30.252.154
 
