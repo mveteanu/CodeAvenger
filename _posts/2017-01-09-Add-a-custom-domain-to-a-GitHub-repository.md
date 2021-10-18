@@ -81,7 +81,7 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
    - 185.199.110.153
    - 185.199.111.153
 
-Warning: In the past these IPs used to be the following ones. In case you used these old ones, you will have to reconfigure your DNS setting:
+   Warning: In the past these IPs used to be the following ones. In case you used these old ones, you will have to reconfigure your DNS setting:
 
    - 192.30.252.153
    - 192.30.252.154
