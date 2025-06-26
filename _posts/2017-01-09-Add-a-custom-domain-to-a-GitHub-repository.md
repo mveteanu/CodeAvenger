@@ -75,8 +75,11 @@ Go back to GoDaddy and enter the "Manage DNS" section for your domain.
 
    The A records will point to the following two IP addresses as required by GitHub and explained [here](https://help.github.com/articles/setting-up-an-apex-domain/)
 
-   - 192.30.252.153
-   - 192.30.252.154
+
+   - 185.199.108.153
+   - 185.199.109.153
+   - 185.199.110.153
+   - 185.199.111.153
 
 
 2. To set up the www subdomain, such as [www.vmasoft.net](http://www.vmasoft.net) we need to configure a CNAME record with GoDaddy.
@@ -84,17 +87,20 @@ In order to take advange of GitHub CDN, we will have to point the www subdomain 
 
    At this point, the GoDaddy DNS records should contain the following:
 
-   |NAME  |   TYPE  |  VALUE              |
-   |------|---------|---------------------|
-   |@     |   A     |  192.30.252.153     |
-   |@     |   A     |  192.30.252.154     |
-   |www   |   CNAME |  mveteanu.github.io |
+   |NAME  |   TYPE  |  VALUE               |
+   |------|---------|----------------------|
+   |@     |   A     |  185.199.108.153     |
+   |@     |   A     |  185.199.109.153     |
+   |@     |   A     |  185.199.110.153     |
+   |@     |   A     |  185.199.111.153     |
+   |www   |   CNAME |  mveteanu.github.io  |
 
 
    Note: Other entries may be already pre-populated. Don't worry about those.
 
-![](/img/posts/godaddy_github_05.png)
+   ![](/img/posts/godaddy_github_05.png)
 
+   Warning: In the past these IPs used to be 192.30.252.153 and 192.30.252.154. If you have the old ones, please replace them with the new ones.
 
 Test your new domain
 --------------------
